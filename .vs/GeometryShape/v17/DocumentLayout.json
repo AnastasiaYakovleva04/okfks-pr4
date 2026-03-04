@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\yakovleva-pr31\\GeometryShape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|c:\\yakovleva-pr31\\geometryshape\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|c:\\yakovleva-pr31\\geometryshape\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|c:\\yakovleva-pr31\\geometryshape\\geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\yakovleva-pr31\\GeometryShape\\GeometryShape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "GeometryShape\\Rectangle.cs",
+              "ToolTip": "C:\\yakovleva-pr31\\GeometryShape\\GeometryShape\\Rectangle.cs",
+              "RelativeToolTip": "GeometryShape\\Rectangle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:22:55.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\yakovleva-pr31\\GeometryShape\\GeometryShape\\Shape.cs",
+              "RelativeDocumentMoniker": "GeometryShape\\Shape.cs",
+              "ToolTip": "C:\\yakovleva-pr31\\GeometryShape\\GeometryShape\\Shape.cs",
+              "RelativeToolTip": "GeometryShape\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:20:10.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\yakovleva-pr31\\GeometryShape\\GeometryShape\\Triangle.cs",
+              "RelativeDocumentMoniker": "GeometryShape\\Triangle.cs",
+              "ToolTip": "C:\\yakovleva-pr31\\GeometryShape\\GeometryShape\\Triangle.cs",
+              "RelativeToolTip": "GeometryShape\\Triangle.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:27:04.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

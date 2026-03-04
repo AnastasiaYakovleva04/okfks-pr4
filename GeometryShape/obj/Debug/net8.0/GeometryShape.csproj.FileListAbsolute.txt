@@ -1,0 +1,12 @@
+C:\yakovleva-pr31\GeometryShape\GeometryShape\bin\Debug\net8.0\GeometryShape.deps.json
+C:\yakovleva-pr31\GeometryShape\GeometryShape\bin\Debug\net8.0\GeometryShape.dll
+C:\yakovleva-pr31\GeometryShape\GeometryShape\bin\Debug\net8.0\GeometryShape.pdb
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfoInputs.cache
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.AssemblyInfo.cs
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.csproj.CoreCompileInputs.cache
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.sourcelink.json
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.dll
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\refint\GeometryShape.dll
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\GeometryShape.pdb
+C:\yakovleva-pr31\GeometryShape\GeometryShape\obj\Debug\net8.0\ref\GeometryShape.dll
