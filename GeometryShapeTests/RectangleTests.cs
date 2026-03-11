@@ -3,7 +3,7 @@ using System.Net.Sockets;
 
 namespace GeometryShapeTests
 {
-    public class GeometryShapeTest
+    public class RectangleTests
     {
         [Fact]
         public void RectangleArea_HnegW50_ReturnArgumentException()
@@ -45,6 +45,5 @@ namespace GeometryShapeTests
             var actual = rect.Perimeter();
             Assert.Equal(RectanglePerimeterH5W10, actual);
         }
-
     }
 }
