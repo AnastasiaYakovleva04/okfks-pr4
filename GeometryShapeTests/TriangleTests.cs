@@ -62,7 +62,7 @@ namespace GeometryShapeTests
         public void TrianglePerimeter_A5B5C5_Return15()
         {
             Triangle triangle = new() { SideA = 5, SideB = 5, SideC = 5 };
-            const double EquilateralTrianglePerimeterSides5 = 15;
+            const double EquilateralTrianglePerimeterSides5 = 10;
             var actual = triangle.Perimeter();
             Assert.Equal(EquilateralTrianglePerimeterSides5, actual);
         }
