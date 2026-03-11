@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BBBEA58-7702-41BA-B893-6E6513B1EC6F}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\c#\\okfks-pr4\\geometryshapetests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBBEA58-7702-41BA-B893-6E6513B1EC6F}|GeometryShapeTests\\GeometryShapeTests.csproj|solutionrelative:geometryshapetests\\triangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\c#\\okfks-pr4\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BBBEA58-7702-41BA-B893-6E6513B1EC6F}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\c#\\okfks-pr4\\geometryshapetests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BBBEA58-7702-41BA-B893-6E6513B1EC6F}|GeometryShapeTests\\GeometryShapeTests.csproj|solutionrelative:geometryshapetests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\c#\\okfks-pr4\\geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\c#\\okfks-pr4\\geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BBBEA58-7702-41BA-B893-6E6513B1EC6F}|GeometryShapeTests\\GeometryShapeTests.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\c#\\okfks-pr4\\geometryshapetests\\geometryshapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BBBEA58-7702-41BA-B893-6E6513B1EC6F}|GeometryShapeTests\\GeometryShapeTests.csproj|solutionrelative:geometryshapetests\\geometryshapetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\c#\\okfks-pr4\\geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47FD8C1D-B9CA-4B76-BF09-8FCF524CDD85}|GeometryShape\\GeometryShape.csproj|solutionrelative:geometryshape\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 287,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,33 +42,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeometryShapeTest.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShapeTests\\GeometryShapeTest.cs",
-              "RelativeDocumentMoniker": "GeometryShapeTests\\GeometryShapeTest.cs",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShapeTests\\GeometryShapeTest.cs",
-              "RelativeToolTip": "GeometryShapeTests\\GeometryShapeTest.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAABDAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TriangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShapeTests\\TriangleTests.cs",
+              "RelativeDocumentMoniker": "GeometryShapeTests\\TriangleTests.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShapeTests\\TriangleTests.cs",
+              "RelativeToolTip": "GeometryShapeTests\\TriangleTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T10:04:14.972Z",
+              "WhenOpened": "2026-03-11T09:38:16.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "RectangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShapeTests\\RectangleTests.cs",
+              "RelativeDocumentMoniker": "GeometryShapeTests\\RectangleTests.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShapeTests\\RectangleTests.cs",
+              "RelativeToolTip": "GeometryShapeTests\\RectangleTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T10:04:14.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShape\\Rectangle.cs",
               "RelativeDocumentMoniker": "GeometryShape\\Rectangle.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShape\\Rectangle.cs",
               "RelativeToolTip": "GeometryShape\\Rectangle.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:22:55.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:22:55.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShape\\Shape.cs",
               "RelativeDocumentMoniker": "GeometryShape\\Shape.cs",
@@ -72,18 +87,17 @@
               "RelativeToolTip": "GeometryShape\\Shape.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:20:10.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T09:20:10.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShape\\Triangle.cs",
               "RelativeDocumentMoniker": "GeometryShape\\Triangle.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Documents\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043A\u0438\\C#\\okfks-pr4\\GeometryShape\\Triangle.cs",
               "RelativeToolTip": "GeometryShape\\Triangle.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwD4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwD4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T09:27:04.611Z"
             }
